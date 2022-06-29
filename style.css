@@ -1,33 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .b1{
     width: 50%;
-    background-color: blue;
+    background-color:#fe0000;
     float: left;
     height: 300px;
 }
 .b1 h1{
     font-size: 30px;
     color: aliceblue;
-    margin: 115px 0px 7px 225px;
+     text-align: center;
 }
 .b2 h1{
     font-size: 30px;
     color: aliceblue;
-    margin: 115px 0px 7px 225px;
+   text-align: center;
 }
 .b3 h1{
     font-size: 60px;
     color: aliceblue;
-    margin: 65px 0px 7px 600px;
+    text-align: center;
 }
+
 .b2{
     width: 50%;
-    background-color: rgb(135, 135, 192);
+    background-color: #2cac01;
     float: right;
     height: 300px;
 }
 .b3{
     width: 100%;
-    background-color: rgb(192, 135, 166);
-     overflow: auto;
+    background-color: #000000;
+    clear: both;
     height:200px;
 }
